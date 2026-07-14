@@ -36,13 +36,6 @@
 | [ccc-fog](https://github.com/xiayu519/ccc-fog) | Cocos Creator 3.8 战争迷雾实现 | TypeScript |
 | [SLG4Seasons](https://github.com/xiayu519/SLG4Seasons) | SLG 大地图四季变化 Demo | C# |
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xiayu519&show_icons=true&hide_border=true&locale=cn&theme=transparent" alt="xiayu519's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiayu519&layout=compact&hide_border=true&locale=cn&theme=transparent" alt="Top languages" />
-</div>
-
 ---
 
 <div align="center">
