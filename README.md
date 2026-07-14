@@ -14,8 +14,9 @@
 
 - 🎮 Game Developer，主要使用 **Unity** 与 **Cocos Creator**
 - 🛠️ 日常开发语言为 **C#** 与 **TypeScript**
-- 🚀 正在持续开发和维护 [Tyou](https://github.com/xiayu519/Tyou)
+- 🚀 [Tyou](https://github.com/xiayu519/Tyou) 作者
 - 🌱 关注游戏框架设计、工程化与开发效率
+- 📫 邮箱：[499793702@qq.com](mailto:499793702@qq.com)
 
 ### 🚀 Tyou
 
@@ -28,7 +29,7 @@
 
 <p align="center">
   <img width="49%" align="top" src="./github-metrics-left.svg" alt="GitHub profile metrics" />
-  <img width="49%" align="top" src="./github-metrics-right.svg" alt="GitHub achievements" />
+  <img width="49%" align="top" src="./github-metrics-right.svg" alt="GitHub contribution calendar" />
 </p>
 
 ---
