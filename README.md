@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm xiayu519 👋
+# Hi 👋, I'm xiayu519
 
-### 🎮 Game Developer · Unity & Cocos Creator
+### Game Developer | Unity & Cocos Creator
 
-专注游戏客户端与框架开发，喜欢研究实用、可复用的游戏技术方案。
+专注游戏客户端与框架开发，喜欢研究清晰、实用、可复用的游戏技术方案。
 
 </div>
 
@@ -12,34 +12,29 @@
 
 ### 👨‍💻 About Me
 
-- 🎮 一名游戏开发者，主要使用 **Unity** 与 **Cocos Creator**
-- 🚀 正在维护 Cocos Creator 游戏框架 [Tyou](https://github.com/xiayu519/Tyou)
-- 🌫️ 做过战争迷雾、SLG 大地图四季变化、角色换装等功能
-- 🌱 持续学习 **TypeScript / C# / 游戏框架设计**
-- 💡 喜欢开源，也欢迎交流游戏开发相关问题
+- 🎮 Game Developer，主要使用 **Unity** 与 **Cocos Creator**
+- 🛠️ 日常开发语言为 **C#** 与 **TypeScript**
+- 🚀 正在持续开发和维护 [Tyou](https://github.com/xiayu519/Tyou)
+- 🌱 关注游戏框架设计、工程化与开发效率
 
-### 🛠️ Tech Stack
+### 🚀 Tyou
 
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Cocos_Creator-55C2E1?style=flat-square&logo=cocos&logoColor=white" alt="Cocos Creator" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+[![Tyou](https://img.shields.io/badge/GitHub-Tyou-181717?style=for-the-badge&logo=github)](https://github.com/xiayu519/Tyou)
+[![Stars](https://img.shields.io/github/stars/xiayu519/Tyou?style=for-the-badge&logo=github)](https://github.com/xiayu519/Tyou/stargazers)
+
+一个面向 **Cocos Creator** 的游戏开发框架，尤其适合有 Unity 开发经验、正在转向 Cocos Creator 的开发者。
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img width="49%" align="top" src="./github-metrics-left.svg" alt="GitHub profile metrics" />
+  <img width="49%" align="top" src="./github-metrics-right.svg" alt="GitHub achievements" />
 </p>
-
-### ✨ Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Tyou](https://github.com/xiayu519/Tyou) | 面向 Unity 转 Cocos Creator 开发者的游戏框架 | TypeScript |
-| [ccc-fog](https://github.com/xiayu519/ccc-fog) | Cocos Creator 3.8 战争迷雾实现 | TypeScript |
-| [SLG4Seasons](https://github.com/xiayu519/SLG4Seasons) | SLG 大地图四季变化 Demo | C# |
 
 ---
 
 <div align="center">
 
-⭐ 如果我的项目对你有帮助，欢迎点个 Star！
+欢迎交流游戏开发、Unity、Cocos Creator 与游戏框架设计。
 
 </div>
